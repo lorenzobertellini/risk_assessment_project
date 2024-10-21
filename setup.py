@@ -11,5 +11,7 @@ setup(
         'streamlit',
         'python-docx',
         'joblib'
+        'setuptools',
+        'fpdf'
     ],
 )

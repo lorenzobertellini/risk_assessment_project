@@ -5,3 +5,5 @@ scikit-learn
 python-docx
 joblib
 reportlab
+setuptools
+fpdf
